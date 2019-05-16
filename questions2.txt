@@ -1,0 +1,12 @@
+QUESTIONS
+
+
+"What is 65 times 52?",
+"How tall is Mount Everest?"
+
+
+ANSWERS
+
+{"3380", "117", "3120", "3520"},
+{"29,029 ft (8,847 m)", "6,683 ft (2,037 m)", "7,918 ft (2,413 m)", "19,341 ft (5,895 m)"},
+
