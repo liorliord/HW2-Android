@@ -1,0 +1,7 @@
+QUESTIONS
+            "When did The Avengers come out?",
+            "What is 48,879 in hexidecimal?",
+
+ANSWERS
+	    {"May 4, 2012", "May 2, 2008", "May 3, 2013", "April 4, 2014"},
+            {"0xBEEF", "0x18C1", "0xDEAD", "0x12D591"}	
